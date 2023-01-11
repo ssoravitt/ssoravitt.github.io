@@ -11,31 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2016
+* M.Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2018
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2019 - Present: Researcher and Team leader of Music cognition project (MUSEC)
+  * Investigation of music cognition and physiological signals (EEG, ECG, and EDA) from listening to popular music [Released dataset](https://github.com/IoBT-VISTEC/MUSEC).
+  * Institution: Vidyasirinedhi Institute of Science and Technology
+  * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2019 - Dec 2021: Research assistant of Speech emotion recognition project
+  * Production of the largest Thai speech emotion dataset acted by 200 actors [Released dataset](https://github.com/vistec-AI/dataset-releases/releases/tag/v1).
+
+* Mar 2019 – Feb 2020: Research assistant of VISRA project Mar 2019 – Feb 2020 
+  * Production of interactive visualization of research data and the [project website](https://visra.vistec.ac.th).
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, R, MATLAB, Javascript, HTML, and CSS
+* Language 
+  * Thai (Native)
+  * CEFR Level B2 in all tasks
 
+* Music-related activities
+  * Volunteer of International Society for Music Information Retrieval Conference 2020.
+  * Awaiting mentor of Women in Music Information Retrieval mentoring program 2022.
+  * Leader of the music club in university, who organized concerts and developed a marketing plan to improve the popularity of the club more than 30 music events.
+  * Freelance music and event organizer (Part-time; 2016-2018).
+  * Bass player, who won the 10+ music band competitions, and played music in the events/restaurants 
+  * Master of ceremonies of music events and Referee of music competition in university and workplace.
+  * Member of voluntary organization in Saturday School Campaign for underprivileged students in 2016-2018 such as Music volunteer teacher, Area manager and Leader of music/vocal curriculum.
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
