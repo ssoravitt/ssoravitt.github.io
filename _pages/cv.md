@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-**Vidyasirimedhi Institute of Science and Technology**
+
+## Vidyasirimedhi Institute of Science and Technology
 * Sep 2019 - Present: Researcher and Team leader of Music cognition project (MUSEC)
   * Investigation of music cognition and physiological signals (EEG, ECG, and EDA) from listening to popular music [dataset](https://github.com/IoBT-VISTEC/MUSEC).
   * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn

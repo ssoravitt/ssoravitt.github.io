@@ -7,4 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Soravitt Sangnark from Thailand, who has been pursuing many lifetime questions about music cognition, such as *How do humans respond to music across cultures?* *Why do humans enjoy music emotionally?* *Why is popular music most memorable than others?* Absolutely, my research interests are music cognition and music information retrieval. 
+I am Soravitt Sangnark from Thailand, who has been pursuing many lifetime questions about music cognition --- *How do humans respond to music across cultures?* *Why do humans enjoy music emotionally?* *Why is popular music most memorable than others?* Without any doubt, my research interests are music cognition and music information retrieval, particularly cross-cultural music cognition.
+
+> I can make the world better through music cognition research
+
+Although my formal role is called as a research assistant, I am currently being like an independent researcher who conducts my own research project about music cognition and physiological signals (EEG, ECG, and EDA), supervised by Asst. Prof. Dr. Theerawit Wilaiprasitporn at INTERFACES lab, Vidyasirimedi Institute of Science and Technology, Thailand. If you have any question, look for collaboration, please don't hesitate to contact me via [email](soravitt.sang@gmail.com) (soravitt.sang[at]gmail[dot]com).
+
+
+## News and Updates
+
