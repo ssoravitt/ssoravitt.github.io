@@ -11,14 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2016
-* M.Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2018
+* B. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2016
+* M. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2018
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-Vidyasirimedhi Institute of Science and Technology
------
+**Vidyasirimedhi Institute of Science and Technology**
 * Sep 2019 - Present: Researcher and Team leader of Music cognition project (MUSEC)
   * Investigation of music cognition and physiological signals (EEG, ECG, and EDA) from listening to popular music [dataset](https://github.com/IoBT-VISTEC/MUSEC).
   * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn
