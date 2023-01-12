@@ -23,7 +23,7 @@ redirect_from:
 
 *Vidyasirimedhi Institute of Science and Technology*
 * Sep 2019 - Present --- Researcher and Team leader of Music cognition project (MUSEC)
-  * Investigation of music cognition and physiological signals (EEG, ECG, and EDA) from listening to popular music [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC).
+  * Investigation of music cognition and physiological signals (EEG, ECG, and EDA) from listening to popular music. [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
   <!-- * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn -->
 
 * Sep 2019 - Dec 2021 --- Research assistant of Speech emotion recognition project
@@ -34,9 +34,9 @@ redirect_from:
 
 ## Co-supervised research
 <!-- * Benchmarking Time-Frequency Representation Methods in EEG-based Music Preference Recognition Using Deep Learning Approach, Jun 2022 - Present. -->
-* EDA-based music preference classification, Jun 2021 - Jun 2022.
+* EDA-based music preference classification, Jun 2021 - Jun 2022. [Best poster award of university](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)
 * What does music arouse you?, Oct 2021 - May 2022.
-* Ubiquitous Affective Computing: A Review, Feb 2021 - Dec 2021.
+* Ubiquitous Affective Computing: A Review, Feb 2021 - Dec 2021. [[Paper]](https://ieeexplore.ieee.org/document/9662339)
 
 ## Skills
 * Programming
