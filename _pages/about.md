@@ -11,7 +11,7 @@ I am Soravitt Sangnark from Thailand, who has been pursuing many lifetime questi
 
 > I believe --- I can make the world better through music cognition research.
 
-Although my formal role is called a research assistant, I am currently being like an independent researcher who conducts my own research project about music cognition and physiological signals (EEG, ECG, and EDA), supervised by Asst. Prof. Dr. Theerawit Wilaiprasitporn at INTERFACES lab, Vidyasirimedi Institute of Science and Technology, Thailand. If you have any questions, look for collaboration, and so on, please don’t hesitate to contact me via [email](soravitt.sang@gmail.com) (soravitt.sang[at]gmail[dot]com).
+Although my formal role is called a research assistant, I am currently being like an independent researcher who conducts my own research project about music cognition and physiological signals (EEG, ECG, and EDA), supervised by [Asst. Prof. Dr. Theerawit Wilaiprasitporn](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=th) at [BRAIN Lab](https://brain.vistec.ac.th/), VISTEC, Thailand. If you have any questions, look for collaboration, and so on, please don’t hesitate to contact me via email (soravitt.sang[at]gmail[dot]com).
 
 News and Updates
 ---
