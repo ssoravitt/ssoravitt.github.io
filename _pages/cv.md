@@ -30,16 +30,16 @@ redirect_from:
 * Mar 2019 – Feb 2020 --- Research assistant of VISRA project 
   * Production of interactive visualization of research data and the [[project website]](https://visra.vistec.ac.th).
   
-Skills
-======
+## Skills
+
 * Programming
   * Python, R, MATLAB, Javascript, HTML, and CSS
 * Language 
   * Thai (Native)
   * CEFR Level B2 in all tasks
 
-Music-related activities
-======
+## Music-related activities
+
   * Volunteer of International Society for Music Information Retrieval Conference 2020.
   * Awaiting mentor of Women in Music Information Retrieval mentoring program 2022.
   * Leader of the music club in university, who organized concerts and developed a marketing plan to improve the popularity of the club more than 30 music events.
