@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV <a href="https://drive.google.com/open?id=1LvZ3vvuR1KAmrzcuWGJYkL-c2yZ2f5If&authuser=soravitt.sang%40gmail.com&usp=drive_fs">[Download]</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
