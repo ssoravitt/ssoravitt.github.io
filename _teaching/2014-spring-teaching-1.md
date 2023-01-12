@@ -10,11 +10,10 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Co-supervised research
+<!-- * Benchmarking Time-Frequency Representation Methods in EEG-based Music Preference Recognition Using Deep Learning Approach, Jun 2022 - Present. -->
+* EDA-based music preference classification, Jun 2021 - Jun 2022.
+  * [Best poster award of Mahidol university](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)
+* What does music arouse you?, Oct 2021 - May 2022.
+* Ubiquitous Affective Computing: A Review, Feb 2021 - Dec 2021.
+  * [Paper]
