@@ -11,7 +11,7 @@ I am Soravitt Sangnark from Thailand, who has been pursuing many lifetime questi
 
 > I believe --- I can make the world better through music cognition research.
 
-My master's thesis, music emotion recognition, got me into pursuing the lifetime questions in the world of music cognition, which has increbibly changed my life. Currently, because of the thesis, I got an opportunity to be like an independent researcher who conducts my own research project about music cognition and physiological signals (EEG, ECG, and EDA, supervised by [Asst. Prof. Dr. Theerawit Wilaiprasitporn](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=th) at [BRAIN Lab](https://brain.vistec.ac.th/), VISTEC, Thailand. At this point, I am confident --- music cognition is my life. 
+My master's thesis, music emotion recognition, got me into pursuing the lifetime questions in the world of music cognition, which has increbibly changed my life. Then, I got an opportunity to be like an independent researcher who conducts my own research project about music cognition and physiological signals (EEG, ECG, and EDA), supervised by [Asst. Prof. Dr. Theerawit Wilaiprasitporn](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=th) at [BRAIN Lab](https://brain.vistec.ac.th/), VISTEC, Thailand. Now, I am confident --- music cognition is my life. 
 
 
 If you have any questions, look for collaboration, and so on, please don’t hesitate to contact me via email (soravitt.sang[at]gmail[dot]com).
