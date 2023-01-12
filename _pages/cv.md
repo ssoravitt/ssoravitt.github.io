@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [Download CV](https://drive.google.com/open?id=1LvZ3vvuR1KAmrzcuWGJYkL-c2yZ2f5If&authuser=soravitt.sang%40gmail.com&usp=drive_fs)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -25,7 +25,7 @@ redirect_from:
 * Sep 2019 - Dec 2021 --- Research assistant of Speech emotion recognition project
   * Production of the largest Thai speech emotion dataset acted by 200 actors [[dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1).
 
-* Mar 2019 – Feb 2020 --- Research assistant of VISRA project Mar 2019 – Feb 2020 
+* Mar 2019 – Feb 2020 --- Research assistant of VISRA project 
   * Production of interactive visualization of research data and the [[project website]](https://visra.vistec.ac.th).
   
 Skills
