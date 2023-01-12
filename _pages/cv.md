@@ -17,15 +17,15 @@ redirect_from:
 
 ## Work experience
 
-Vidyasirimedhi Institute of Science and Technology
-* Sep 2019 - Present: Researcher and Team leader of Music cognition project (MUSEC)
+*Vidyasirimedhi Institute of Science and Technology*
+* Sep 2019 - Present --- Researcher and Team leader of Music cognition project (MUSEC)
   * Investigation of music cognition and physiological signals (EEG, ECG, and EDA) from listening to popular music [[dataset]](https://github.com/IoBT-VISTEC/MUSEC).
   * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn
 
-* Sep 2019 - Dec 2021: Research assistant of Speech emotion recognition project
-  * Production of the largest Thai speech emotion dataset acted by 200 actors [[dataset[]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1).
+* Sep 2019 - Dec 2021 --- Research assistant of Speech emotion recognition project
+  * Production of the largest Thai speech emotion dataset acted by 200 actors [[dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1).
 
-* Mar 2019 – Feb 2020: Research assistant of VISRA project Mar 2019 – Feb 2020 
+* Mar 2019 – Feb 2020 --- Research assistant of VISRA project Mar 2019 – Feb 2020 
   * Production of interactive visualization of research data and the [[project website]](https://visra.vistec.ac.th).
   
 Skills
