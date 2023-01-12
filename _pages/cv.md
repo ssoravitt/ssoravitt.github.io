@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV <a href="https://drive.google.com/open?id=1LvZ3vvuR1KAmrzcuWGJYkL-c2yZ2f5If&authuser=soravitt.sang%40gmail.com&usp=drive_fs">[Download]</a>"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Download full CV](https://drive.google.com/open?id=1LvZ3vvuR1KAmrzcuWGJYkL-c2yZ2f5If&authuser=soravitt.sang%40gmail.com&usp=drive_fs) (Updated 12 Jan 2023)
 
 ## Education
 
