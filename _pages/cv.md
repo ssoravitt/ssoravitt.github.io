@@ -30,13 +30,11 @@ redirect_from:
 * Mar 2019 – Feb 2020 --- Research assistant of VISRA project 
   * Production of interactive visualization of research data and the [[Project website]](https://visra.vistec.ac.th).
 
-<!-- ## Co-supervised research -->
+## Co-supervised research
 <!-- * Benchmarking Time-Frequency Representation Methods in EEG-based Music Preference Recognition Using Deep Learning Approach, Jun 2022 - Present. -->
-<!-- * EDA-based music preference classification, Jun 2021 - Jun 2022.
-  * [Best poster award of Mahidol university](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)
+* EDA-based music preference classification, Jun 2021 - Jun 2022.
 * What does music arouse you?, Oct 2021 - May 2022.
 * Ubiquitous Affective Computing: A Review, Feb 2021 - Dec 2021.
-  * [Paper] -->
 
 ## Skills
 * Programming
