@@ -14,9 +14,9 @@ redirect_from:
 ## Education
 
 * B. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2016
-  * Thesis: Thai music emotion recognition based on Western music (written in Thai) [[Link]](https://opac.lib.kmitl.ac.th/catalog/BibItem.aspx?BibID=b00273711)
+  * Thesis --- Thai music emotion recognition based on Western music (written in Thai) [[Link]](https://opac.lib.kmitl.ac.th/catalog/BibItem.aspx?BibID=b00273711)
 * M. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2018
-  * Thesis: Note score recognition
+  * Thesis --- Note score recognition
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 ## Research experience
@@ -25,7 +25,7 @@ redirect_from:
 * Sep 2019 - Present --- Researcher and Team leader of Music cognition project (MUSEC)
   * Investigation of music cognition and physiological signals (EEG, ECG, and EDA) from listening to popular music [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC).
   <!-- * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn -->
-  
+
 * Sep 2019 - Dec 2021 --- Research assistant of Speech emotion recognition project
   * Production of the largest Thai speech emotion dataset acted by 200 actors [[Dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1).
 
