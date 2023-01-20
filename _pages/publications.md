@@ -15,7 +15,7 @@ R. Assabumrungrat, <b>S. Sangnark</b>, T. Charoenpattarawut, W. Polpakdee, T. Su
 
 Poster
 =====
-W. Polpakdee, <b>S. Sangnark</b>, S. Noisagool, and T. Wilaiprasitporn, Senior project, Mahidol University, 2022. [Best poster award of university](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)
+W. Polpakdee, <b>S. Sangnark</b>, S. Noisagool, and T. Wilaiprasitporn, EDA-based music preference classification, Senior project, Mahidol University, 2022. [Best poster award of university](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)
 
 
 Thesis
