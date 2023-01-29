@@ -14,9 +14,9 @@ redirect_from:
 ## Education
 
 * B. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2016
-  * Thesis --- Thai music emotion recognition based on Western music (written in Thai) [[Link]](https://opac.lib.kmitl.ac.th/catalog/BibItem.aspx?BibID=b00273711)
+  <!-- * Thesis --- Thai music emotion recognition based on Western music (written in Thai) [[Link]](https://opac.lib.kmitl.ac.th/catalog/BibItem.aspx?BibID=b00273711) -->
 * M. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2018
-  * Thesis --- Note score recognition
+  <!-- * Thesis --- Note score recognition -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 ## Research experience
@@ -38,12 +38,12 @@ redirect_from:
 * What does music arouse you?, Oct 2021 - May 2022.
 * Ubiquitous Affective Computing: A Review, Feb 2021 - Dec 2021. [[Paper]](https://ieeexplore.ieee.org/document/9662339)
 
-## Skills
+<!-- ## Skills
 * Programming
   * Python, R, MATLAB, Javascript, HTML, and CSS
 * Language 
   * Thai (Native)
-  * CEFR Level B2 in all tasks
+  * CEFR Level B2 in all tasks -->
 
 ## Music-related activities
 
