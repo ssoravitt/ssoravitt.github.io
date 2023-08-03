@@ -15,8 +15,8 @@ I started to pursue the questions once I found my master's thesis, music emotion
 
 If you have any questions, look for collaboration, and so on, please don’t hesitate to contact me via email (soravitt.sang[at]gmail[dot]com).
 
-News and Updates
+Updates
 =====
-11 Jan 2023 --- This web is created.
+3 Aug 2023 --- My new co-author publication: Enhanced Lightweight CNN Using Joint Classification with Averaging Probability for sEMG-Based Subject-Independent Hand Gesture Recognition.
 
 <!-- > I believe --- I can make the world better through music cognition research. -->

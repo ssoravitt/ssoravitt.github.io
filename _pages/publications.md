@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+B. Leelakittisin, M. Trakulruangroj, <b>S. Sangnark</b>, T. Wilaiprasitporn, and T. Sudhawiyangkul,
+“Enhanced lightweight CNN using joint classification with averaging probability for sEMG-based
+subject-independent hand gesture recognition,” IEEE Sensors Journal, pp. 1–1, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10190329)
+
 R. Assabumrungrat, <b>S. Sangnark</b>, T. Charoenpattarawut, W. Polpakdee, T. Sudhawiyangkul, E. Boonchieng, and T. Wilaiprasitporn, "Ubiquitous Affective Computing: A Review," in IEEE Sensors Journal, vol. 22, no. 3, pp. 1867-1881, 1 Feb.1, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9662339) 
 
 <b>S. Sangnark</b>, P. Autthasan, P. Ponglertnapakorn, P. Chalekarn, T. Sudhawiyangkul, M. Trakulruangroj, S. Songsermsawad, R. Assabumrungrat, S. Amplod, K. Ounjai, and T. Wilaiprasitporn, "Revealing Preference in Popular Music Through Familiarity and Brain Response," in IEEE Sensors Journal, vol. 21, no. 13, pp. 14931-14940, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
