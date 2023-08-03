@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV](https://drive.google.com/open?id=1LvZ3vvuR1KAmrzcuWGJYkL-c2yZ2f5If&authuser=soravitt.sang%40gmail.com&usp=drive_fs) (Updated 12 Jan 2023)
+[Download full CV](https://drive.google.com/file/d/1MkZQKYs8Yc8aI9y-vzpnMcA1mLgwDaOK/view?usp=drive_link) (Updated 3 Aug 2023)
 
 ## Education
 
@@ -33,7 +33,11 @@ redirect_from:
   * Production of interactive visualization of research data and [project website](https://visra.vistec.ac.th).
 
 ## Co-supervised research
-<!-- * Benchmarking Time-Frequency Representation Methods in EEG-based Music Preference Recognition Using Deep Learning Approach, Jun 2022 - Present. -->
+* Audio, Napping, and Memory, July 2023 - Present.
+* EEG-based subject-independent music emotion recognition, Nov 2022 - Present.
+* Benchmarking Time-Frequency Representation Methods in EEG-based Music Preference Recogni-
+tion Using Deep Learning Approach, Jun 2022 - Present.
+* ECG-based music preference classification, May 2022 - Present.
 * EDA-based music preference classification, Jun 2021 - Jun 2022. [[Best poster award of university]](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)
 * What does music arouse you?, Oct 2021 - May 2022.
 * Ubiquitous Affective Computing: A Review, Feb 2021 - Dec 2021. [[Paper]](https://ieeexplore.ieee.org/document/9662339)
@@ -46,9 +50,8 @@ redirect_from:
   * CEFR Level B2 in all tasks -->
 
 ## Music-related activities
-
+  * Mentor of Women in Music Information Retrieval (WiMIR) mentoring program 2023.
   * Volunteer of International Society for Music Information Retrieval Conference 2020.
-  * Awaiting mentor of Women in Music Information Retrieval mentoring program 2022.
   * Leader of the music club in university, who organized concerts and developed a marketing plan to improve the popularity of the club more than 30 music events.
   * Freelance music and event organizer (Part-time; 2016-2018).
   * Bass player, who won the 10+ music band competitions, and played music in the events/restaurants 
