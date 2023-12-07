@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV](https://drive.google.com/file/d/1MkZQKYs8Yc8aI9y-vzpnMcA1mLgwDaOK/view?usp=drive_link) (Updated 3 Aug 2023)
+[Download full CV](https://drive.google.com/open?id=1MkZQKYs8Yc8aI9y-vzpnMcA1mLgwDaOK&usp=drive_fs) (Updated 7 Dec 2023)
 
 ## Education
 
@@ -35,7 +35,7 @@ redirect_from:
 ## Co-supervised research
 * EEG-based subject-independent music emotion recognition, Nov 2022 - Present.
 * Benchmarking Time-Frequency Representation Methods in EEG-based Music Preference Recognition Using Deep Learning Approach, Jun 2022 - Present.
-* Vocal excercise assiting breathing, July 2023 - Sep 2023.
+* Vocal exercise and respiratory rate, July 2023 - Sep 2023.
 * ECG-based music preference classification, May 2022 - Dec 2023. [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)
 * EDA-based music preference classification, Jun 2021 - Jun 2022. [[Best poster award of university]](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)
 * What does music arouse you?, Oct 2021 - May 2022.
