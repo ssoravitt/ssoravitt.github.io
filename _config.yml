@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Soravitt Sangnark"
   avatar           : "myprofile2.jpeg"
-  bio              : "Music can make the world better."
+  bio              : ""
   location         : "Rayong, Thailand"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/soravitt-sangnark/"
+  linkedin         : ""
   orcid            : "https://orcid.org/0000-0003-3776-0954"
   pinterest        :
   soundcloud       :
