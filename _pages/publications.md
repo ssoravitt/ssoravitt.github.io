@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-P. Autthasan, P. Sukontaman, T. Wilaiprasitporn and S. Sangnark, "HeartRhythm: ECG-Based Music Preference Classification in Popular Music," 2023 IEEE SENSORS, Vienna, Austria, 2023, pp. 1-4, doi: 10.1109/SENSORS56945.2023.10325240. [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)
+P. Autthasan, P. Sukontaman, T. Wilaiprasitporn and S. Sangnark, "HeartRhythm: ECG-Based Music Preference Classification in Popular Music," 2023 IEEE SENSORS, Vienna, Austria, 2023, pp. 1-4. [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)
 
 B. Leelakittisin, M. Trakulruangroj, <b>S. Sangnark</b>, T. Wilaiprasitporn, and T. Sudhawiyangkul,
 “Enhanced lightweight CNN using joint classification with averaging probability for sEMG-based
