@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV](https://drive.google.com/open?id=1MkZQKYs8Yc8aI9y-vzpnMcA1mLgwDaOK&usp=drive_fs) (Updated 7 Dec 2023)
+[Download full CV](https://drive.google.com/open?id=1MkZQKYs8Yc8aI9y-vzpnMcA1mLgwDaOK&usp=drive_fs) (Updated 2 Sep 2024)
 
 ## Education
 
@@ -23,7 +23,7 @@ redirect_from:
 
 *Vidyasirimedhi Institute of Science and Technology*
 * Sep 2019 - Present --- Researcher and Team leader of Music cognition project (MUSEC)
-  * Investigation of music cognition and physiological signals (EEG, ECG, and EDA) from listening to popular music. [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
+  * Investigating human responses to music with and without lyrics, using behavioral data and bio-signals (i.e., EEG, ECG, and EDA), and making the data publicly available [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
   <!-- * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn -->
 
 * Sep 2019 - Dec 2021 --- Research assistant of Speech emotion recognition project
@@ -33,8 +33,8 @@ redirect_from:
   * Production of interactive visualization of research data and [project website](https://visra.vistec.ac.th).
 
 ## Co-supervised research
-* EEG-based subject-independent music emotion recognition, Nov 2022 - Present.
 * Benchmarking Time-Frequency Representation Methods in EEG-based Music Preference Recognition Using Deep Learning Approach, Jun 2022 - Present.
+* EEG-based subject-independent music emotion recognition, Nov 2022 - Jan 2024.
 * Vocal exercise and respiratory rate, July 2023 - Sep 2023.
 * ECG-based music preference classification, May 2022 - Dec 2023. [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)
 * EDA-based music preference classification, Jun 2021 - Jun 2022. [[Best poster award of university]](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)

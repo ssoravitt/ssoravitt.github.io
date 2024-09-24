@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pursuing many lifetime questions about music cognition, such as *Why are humans likely the only species emotional with music?* 
+I am pursuing many lifetime questions about music cognition, such as *Why are humans likely the only species emotional with music?* *Why does listening to lyrics with melody evoke different mental imagery and emotional responses compared to lyrics without melody?*
 
-I started to pursue the questions once I found my master's thesis, music emotion recognition, which got me into the world of music cognition. Thus, the thesis gave me an opportunity to currently conduct my independent research about music cognition and physiological signals (EEG, ECG, and EDA), supervised by [Asst. Prof. Dr. Theerawit Wilaiprasitporn](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=th) at [BRAIN Lab](https://brain.vistec.ac.th/), VISTEC, Thailand. 
+I started to pursue the questions when I found my master's thesis, music emotion recognition, which got me into the world of music cognition. Thus, the thesis gave me an opportunity to currently conduct my independent research about music cognition and physiological signals (EEG, ECG, and EDA), supervised by [Asst. Prof. Dr. Theerawit Wilaiprasitporn](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=th) at [BRAIN Lab](https://brain.vistec.ac.th/), VISTEC, Thailand. 
 
 
 If you have any questions, look for collaboration, and so on, please don’t hesitate to contact me via email (soravitt.sang[at]gmail[dot]com).
 
 Updates
 =====
-24 Aug 2024 --- 3 minutes pitching at Falling Walls Thailand. My topic is "Breaking the Wall of Emotional Music Streaming." [Review article soon]
+24 Aug 2024 --- 3 minutes pitching at Falling Walls Thailand. My topic is "Breaking the Wall of Emotional Music Streaming." [Review article soon]\\
 15 Aug 2024 --- Gig with Bass+Piano+Sax band as a bassist, band leader, and music director [Review article soon]
 7 Dec 2023 --- My first paper of being the last author is published in the IEEE Sensors 2023, *HeartRhythm: ECG-Based Music Preference Classification in Popular Music*  [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)\\
 3 Aug 2023 --- My new co-author publication. [[Paper]](https://ieeexplore.ieee.org/document/10190329)\\
