@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV](https://drive.google.com/open?id=1MkZQKYs8Yc8aI9y-vzpnMcA1mLgwDaOK&usp=drive_fs) (Updated 2 Sep 2024)
+[Download full CV](https://github.com/ssoravitt/ssoravitt.github.io.git) (Updated 27 Feb 2025)
 
 ## Education
 
@@ -23,15 +23,14 @@ redirect_from:
 
 *Vidyasirimedhi Institute of Science and Technology*
 * Sep 2019 - Dec 2024 --- Researcher and Team leader of Music cognition project (MUSEC)
-  * Investigating human responses to music with and without lyrics, using behavioral data and bio-signals (namely, EEG, ECG, and EDA), and making the data publicly available [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
+  * Investigating human responses to music with and without lyrics using behavioral data, 64-channel brain data, and other bio-signals (ECG, and EDA), and making the data publicly available. [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
   <!-- * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn -->
 
 * Sep 2019 - Dec 2021 --- Research assistant of Speech emotion recognition project
-  * Invited to create the largest Thai speech emotion dataset acted by 200 actors. [[Dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1)
+  * Invited to develop the largest Thai speech emotion dataset acted by 200 actors. [[Dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1)
 
 * Mar 2019 – Feb 2020 --- Research assistant of VISRA project 
-* Developed an interactive visualization system for an industry project covering eight research topics, including robotics and healthcare. The system was designed to provide insights into data and effectively communicate findings to non-researchers. To achieve this, I collaborated and communicated with interdisciplinary researchers, including PhD students and research assistants,
-to understand their visualization requirements. The final visualization system was uploaded to the project website and presented to the board committees (https://visra.vistec.ac.th/).
+* Making an interactive visualization system for an industry project covering eight research topics (https://visra.vistec.ac.th/).
   <!-- * Making the interactive visualizations of research data and [project website](https://visra.vistec.ac.th).-->
 
 ## Co-supervised research
