@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pursuing many lifetime questions about music cognition, such as *Why are humans likely the only species emotional with music?* *Why does listening to lyrics with melody evoke different mental imagery and emotional responses compared to lyrics without melody?*
+I am pursuing many lifetime questions about music cognition and emotion, such as *Why are humans likely the only species to have an emotional connection with actual human music?* *Why does listening to lyrics with melody evoke different mental imagery and emotional responses compared to lyrics without melody?* *What makes humans musical animals?*
 
-I started to pursue the questions when I found my master's thesis, music emotion recognition, which got me into the world of music cognition. Thus, the thesis gave me an opportunity to currently conduct my independent research about music cognition and physiological signals (EEG, ECG, and EDA), supervised by [Asst. Prof. Dr. Theerawit Wilaiprasitporn](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=th) at [BRAIN Lab](https://brain.vistec.ac.th/), VISTEC, Thailand. 
-
+From 2018-2024, I started to pursue the questions when I found my master's thesis, music emotion recognition, which got me into the world of music cognition. Thus, the thesis gave me an opportunity to currently conduct my independent research about music cognition and physiological signals (namely, EEG, ECG, and EDA), supervised by [Asst. Prof. Dr. Theerawit Wilaiprasitporn](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=th) at [BRAIN Lab](https://brain.vistec.ac.th/), VISTEC, Thailand. 
 
 If you have any questions, look for collaboration, and so on, please don’t hesitate to contact me via email (soravitt.sang[at]gmail[dot]com).
 
