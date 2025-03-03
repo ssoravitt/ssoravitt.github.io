@@ -15,22 +15,24 @@ redirect_from:
 
 * B. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2016
   <!-- * Thesis --- Thai music emotion recognition based on Western music (written in Thai) [[Link]](https://opac.lib.kmitl.ac.th/catalog/BibItem.aspx?BibID=b00273711) -->
-* M. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2018
+* M. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2019
   <!-- * Thesis --- Note score recognition -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 ## Research experience
 
 *Vidyasirimedhi Institute of Science and Technology*
-* Sep 2019 - Present --- Researcher and Team leader of Music cognition project (MUSEC)
-  * Investigating human responses to music with and without lyrics, using behavioral data and bio-signals (i.e., EEG, ECG, and EDA), and making the data publicly available [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
+* Sep 2019 - Dec 2024 --- Researcher and Team leader of Music cognition project (MUSEC)
+  * Investigating human responses to music with and without lyrics, using behavioral data and bio-signals (namely, EEG, ECG, and EDA), and making the data publicly available [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
   <!-- * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn -->
 
 * Sep 2019 - Dec 2021 --- Research assistant of Speech emotion recognition project
-  * Production of the largest Thai speech emotion dataset acted by 200 actors. [[Dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1)
+  * Invited to create the largest Thai speech emotion dataset acted by 200 actors. [[Dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1)
 
 * Mar 2019 – Feb 2020 --- Research assistant of VISRA project 
-  * Production of interactive visualization of research data and [project website](https://visra.vistec.ac.th).
+* Developed an interactive visualization system for an industry project covering eight research topics, including robotics and healthcare. The system was designed to provide insights into data and effectively communicate findings to non-researchers. To achieve this, I collaborated and communicated with interdisciplinary researchers, including PhD students and research assistants,
+to understand their visualization requirements. The final visualization system was uploaded to the project website and presented to the board committees (https://visra.vistec.ac.th/).
+  <!-- * Making the interactive visualizations of research data and [project website](https://visra.vistec.ac.th).-->
 
 ## Co-supervised research
 * Benchmarking Time-Frequency Representation Methods in EEG-based Music Preference Recognition Using Deep Learning Approach, Jun 2022 - Present.
