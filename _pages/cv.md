@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV](https://github.com/ssoravitt/ssoravitt.github.io.git) (Updated 27 Feb 2025)
+[Download full CV](https://drive.google.com/file/d/1Da-J_rZr9P1uPBYga0bDMEy13TG7yXUP/view?usp=sharing) (Updated 27 Feb 2025)
 
 ## Education
 
@@ -30,7 +30,7 @@ redirect_from:
   * Invited to develop the largest Thai speech emotion dataset acted by 200 actors. [[Dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1)
 
 * Mar 2019 – Feb 2020 --- Research assistant of VISRA project 
-* Making an interactive visualization system for an industry project covering eight research topics (https://visra.vistec.ac.th/).
+  * Making an interactive visualization system for an industry project covering eight research topics (https://visra.vistec.ac.th/).
   <!-- * Making the interactive visualizations of research data and [project website](https://visra.vistec.ac.th).-->
 
 ## Co-supervised research
