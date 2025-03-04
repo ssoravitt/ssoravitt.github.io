@@ -6,7 +6,7 @@ tags:
   - book
   - bookreview
 ---
-<br/><img src='/images/bookreview/book_range.jpg' alt='book_range' style="height: 275px; width:410px;"> 
+<br/><img src='/images/bookreview/book_range.jpg' alt='book_range' style="height: 410px; width:275px;"> 
 
 I brought my experience and the book’s contents together to conduct informal research on how people become rising-star innovators in their careers. I found that the book’s core concept—emphasizing the importance of knowing and connecting knowledge from different fields—is true. However, it’s not as easy as it seems. The book discusses crucial skills for connecting knowledge but, in my view, does not clearly explain them. Still, I think leaving room for thought is a good approach. A deeper discussion of these skills could extend into multiple books (For this point, I personally suggest that you visit my review of the book Where Research Begins.)
 
