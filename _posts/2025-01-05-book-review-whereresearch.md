@@ -6,7 +6,7 @@ tags:
   - book
   - bookreview
 ---
-<br/><img src='/images/bookreview/book_whereresearchbegins.jpg' alt='book_whereresearch' style="height: 200px; width:150px;"> 
+<br/><img src='/images/bookreview/book_whereresearchbegins.jpg' alt='book_whereresearchbegins' style="height: 200px; width:150px;"> 
 
 
 Who came here from [my review of Range](https://ssoravitt.github.io/posts/2025/01/book-review-range/)? It doesn’t matter. I just want to say that Range and Where Research Begins are among the best books I’ve read in 2024. Whether you are a scientist or not, you can read this book because, in a way, we are all scientists of our own lives.
