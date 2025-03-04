@@ -6,7 +6,7 @@ tags:
   - book
   - bookreview
 ---
-<br/><img src='/images/bookreview/book_naomi.jpg' alt='book_naomi' style="height: 275px; width:410px;"> -->
+<br/><img src='/images/bookreview/book_naomi.jpg' alt='book_naomi' style="height: 275px; width:410px;"> 
 
 This book is about being a slave to love. Sometimes, I get bored with the concept, even though I know love is deeply rooted in human nature and is a reason behind many irrational human behaviors—just like what happens to the main character in this book.
 
