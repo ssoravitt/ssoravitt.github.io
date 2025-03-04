@@ -1,7 +1,7 @@
 ---
 title: 'Book review: Where research begins - Christopher G. Rea and Thomas S. Mullaney'
 date: 2025-01-05
-permalink: /posts/2025/01/book-review-range/
+permalink: /posts/2025/01/book-review-whereresearch/
 tags:
   - book
   - bookreview

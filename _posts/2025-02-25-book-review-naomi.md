@@ -1,5 +1,5 @@
 ---
-title: 'Book review: 痴人の愛 (รักของคนเขลา)- Tanizaki Junichiro'
+title: 'Book review: 痴人の愛 (รักของคนเขลา) - Tanizaki Junichiro'
 date: 2025-02-25
 permalink: /posts/2025/02/book-review-naomi/
 tags:
