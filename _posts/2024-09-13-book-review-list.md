@@ -16,7 +16,5 @@ This post contains an up-to-date list of my book reviews. The published date ref
 [Larminuta - Donatella Di Pietrantonio](https://ssoravitt.github.io/posts/2024/09/book-review-larminuta/)
 
 <b>Non-fiction:</b>\\
-
 [Where research begins - Christopher G. Rea and Thomas S. Mullaney](https://ssoravitt.github.io/posts/2025/01/book-review-whereresearch/)\\
-
 [Range - David Epstein](https://ssoravitt.github.io/posts/2025/01/book-review-range/)
