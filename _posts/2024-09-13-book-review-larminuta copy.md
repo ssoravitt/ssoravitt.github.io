@@ -1,5 +1,5 @@
 ---
-title: 'An up-to-date list of my book reviews'
+title: '(Pinned 📌) An up-to-date list of my book reviews'
 date: 2025-03-01
 permalink: /posts/list-of-book-review/
 tags:
