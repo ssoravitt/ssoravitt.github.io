@@ -15,8 +15,8 @@ If you have any questions, look for collaboration, and so on, please don’t hes
 
 Updates
 =====
-24 Aug 2024 --- 3 minutes pitching at Falling Walls Thailand. My topic is "Breaking the Wall of Emotional Music Streaming." [[Review article]](https://ssoravitt.github.io/talks/2024-08-24-fallingwalls)\\
-15 Aug 2024 --- Gig with Bass+Piano+Sax band as a bassist, band leader, and music director [Review article soon]\\
+24 Aug 2024 --- 3 minutes pitching at Falling Walls Thailand. My topic is "Breaking the Wall of Emotional Music Streaming." [[Blog post]](https://ssoravitt.github.io/talks/2024-08-24-fallingwalls)\\
+15 Aug 2024 --- Gig with Bass+Piano+Sax band as a bassist, band leader, and music director [[Blog post]](https://ssoravitt.github.io/posts/2024/08/my-vistec-farewell-band/)\\
 7 Dec 2023 --- My first paper of being the last author is published in the IEEE Sensors 2023, *HeartRhythm: ECG-Based Music Preference Classification in Popular Music*  [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)\\
 3 Aug 2023 --- My new co-author publication. [[Paper]](https://ieeexplore.ieee.org/document/10190329)\\
 2 Nov 2022 --- Virtually invited presentation in the IEEE Sensors 2022. [[Video]](https://youtu.be/jdnipFzvos4?si=Zctu7AJ1ZXTyYpSp) [[Paper]](https://ieeexplore.ieee.org/document/9402806)\\
