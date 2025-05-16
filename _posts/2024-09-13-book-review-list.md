@@ -7,14 +7,14 @@ tags:
   - bookreview
 ---
 
-This post contains an up-to-date list of my book reviews. The published date reflects the most recent update.
+This post contains an up-to-date list of my book reviews. The published date reflects the most recent update. 
 
 <b>Fiction:</b>\\
 [痴人の愛 (รักของคนเขลา) - Tanizaki Junichiro](https://ssoravitt.github.io/posts/2025/02/book-review-naomi/)\\
 [The Landlady - Fyodor Dostoyevsky](https://ssoravitt.github.io/posts/2024/11/book-review-thelandlady/)\\
 [Testimone inconsapevole - Gianrico Carofiglio](https://ssoravitt.github.io/posts/2024/10/book-review-testimone/)\\
 [Larminuta - Donatella Di Pietrantonio](https://ssoravitt.github.io/posts/2024/09/book-review-larminuta/)\\
-[Dvärgen – Par Lägerkvist](https://ssoravitt.github.io/posts/2025/05/book-review-dvargen/)
+[Dvärgen – Par Lägerkvist](https://ssoravitt.github.io/posts/2025/05/book-review-dvargen/)\\
 [House of the Sleeping Beauties – Yasunari Kawabata](https://ssoravitt.github.io/posts/2025/05/book-review-houseofthesleepingbeauties/)
 
 <b>Non-fiction:</b>\\
