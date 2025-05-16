@@ -1,6 +1,6 @@
 ---
 title: 'Book review: Dvärgen – Par Lägerkvist'
-date: 2025-05-14
+date: 2025-05-13
 permalink: /posts/2025/05/book-review-dvargen/
 tags:
   - book
