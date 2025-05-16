@@ -18,9 +18,9 @@ This post contains an up-to-date list of my book reviews. The published date ref
 [House of the Sleeping Beauties – Yasunari Kawabata](https://ssoravitt.github.io/posts/2025/05/book-review-houseofthesleepingbeauties/)\\
 [Master and Man - Leo Tolstoy](https://ssoravitt.github.io/posts/2025/05/book-review-masterandman/)\\
 [Miguel Street - V.S. Naipaul](https://ssoravitt.github.io/posts/2025/05/book-review-miguelstreet/)\\
-[ทะเลและกาลเวลา - อัศศิริ ธรรมโชติ](https://ssoravitt.github.io/posts/2025/05/book-review-seaandtime/)\\
+[ทะเลและกาลเวลา - อัศศิริ ธรรมโชติ](https://ssoravitt.github.io/posts/2025/05/book-review-seaandtime/)
 
 <b>Non-fiction:</b>\\
 [Where Research Begins - Christopher G. Rea and Thomas S. Mullaney](https://ssoravitt.github.io/posts/2025/01/book-review-whereresearch/)\\
-[Range - David Epstein](https://ssoravitt.github.io/posts/2025/01/book-review-range/)
+[Range - David Epstein](https://ssoravitt.github.io/posts/2025/01/book-review-range/)\\
 [The Creative Act: A Way of Being - Rick Rubin](https://ssoravitt.github.io/posts/2025/04/book-review-thecreativeact/)
