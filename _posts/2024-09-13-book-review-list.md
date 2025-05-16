@@ -15,7 +15,8 @@ This post contains an up-to-date list of my book reviews. The published date ref
 [Testimone inconsapevole - Gianrico Carofiglio](https://ssoravitt.github.io/posts/2024/10/book-review-testimone/)\\
 [Larminuta - Donatella Di Pietrantonio](https://ssoravitt.github.io/posts/2024/09/book-review-larminuta/)\\
 [Dvärgen – Par Lägerkvist](https://ssoravitt.github.io/posts/2025/05/book-review-dvargen/)\\
-[House of the Sleeping Beauties – Yasunari Kawabata](https://ssoravitt.github.io/posts/2025/05/book-review-houseofthesleepingbeauties/)
+[House of the Sleeping Beauties – Yasunari Kawabata](https://ssoravitt.github.io/posts/2025/05/book-review-houseofthesleepingbeauties/)\\
+[Master and Man - Leo Tolstoy](https://ssoravitt.github.io/posts/2025/05/book-review-masterandman)\\
 
 <b>Non-fiction:</b>\\
 [Where research begins - Christopher G. Rea and Thomas S. Mullaney](https://ssoravitt.github.io/posts/2025/01/book-review-whereresearch/)\\
