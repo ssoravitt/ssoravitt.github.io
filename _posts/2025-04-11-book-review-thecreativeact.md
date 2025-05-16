@@ -14,6 +14,6 @@ Artistic work is a work that represents your identity, which results from your e
 
 This book may not benefit people who rarely create real creative works. But it does not mean such people can’t read it. You can read, but please be aware that the content in this book can be just inspiration that will be lost from your life unconsciously. However, if you have experience in being a real creator (please assess it by your instinct), you may not remember the book’s content either, but the content will be embedded in your life as an energy that pushes you to create novel works beyond what you have imagined—until you die.
 
-P.S. The content of [[Range]](https://ssoravitt.github.io/posts/2025/01/book-review-range/) appears in other books, such as this book, again.
+P.S. The content of [Range](https://ssoravitt.github.io/posts/2025/01/book-review-range/) appears in other books, such as this book, again.
 
 
