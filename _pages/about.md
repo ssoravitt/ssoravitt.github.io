@@ -26,7 +26,7 @@ Updates
     <div class="date">15 Aug 2024</div>
   </li>
   <li>
-    <div class="content"> <b>HeartRhythm: ECG-Based Music Preference Classification in Popular Music is published</b> in the IEEE Sensors 2023 <a href="https://ieeexplore.ieee.org/document/10325240">[Paper]</a><a href="https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing">[Poster]</a> </div>
+    <div class="content"> <b>HeartRhythm: ECG-Based Music Preference Classification in Popular Music</b> is published</b>, IEEE Sensors 2023 <a href="https://ieeexplore.ieee.org/document/10325240">[Paper]</a><a href="https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing">[Poster]</a> </div>
     <div class="date">01 Oct 2024</div>
   </li>
 </ul>
