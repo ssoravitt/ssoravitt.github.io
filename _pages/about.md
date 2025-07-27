@@ -21,6 +21,12 @@ If you have any questions, look for collaboration, and so on, please don’t hes
 
 <ul class="timeline">
   <li>
+    <div class="content"> <b>THAI Speech Emotion Recognition (THAI-SER) corpus
+    </b>, arXiv <a href="https://arxiv.org/abs/2507.09618">[Preprint]</a><a href="https://github.com/vistec-AI/dataset-releases/releases/tag/v1
+    ">[Dataset]</a> </div>
+    <div class="date">13 Jul 2025</div>
+  </li>
+  <li>
     <div class="content"> <b>EEG-BBNet: A Hybrid Framework for Brain Biometric Using Graph Connectivity
     </b>, IEEE Sensors Letters <a href="https://ieeexplore.ieee.org/abstract/document/10816542">[Paper]</a> </div>
     <div class="date">26 Dec 2024</div>
