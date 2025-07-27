@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<ul class="timeline">
 I am pursuing the lifelong questions about music cognition, such as *Why are humans likely the only species emotional with music?* *What makes humans musical animals?*
 
 From 2018-2024, I have started to pursue the questions when I found my master's thesis, music emotion recognition, which got me into the world of music cognition. Thus, the thesis gave me an opportunity to conducted my independent research about music cognition and physiological signals (EEG, ECG, and EDA), supervised by [Asst. Prof. Dr. Theerawit Wilaiprasitporn](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=th) at [BRAIN Lab](https://brain.vistec.ac.th/), VISTEC, Thailand. 
 
 If you have any questions, look for collaboration, and so on, please don’t hesitate to contact me via email (soravitt.sang[at]gmail[dot]com).
-</ul>
+
 
 Updates
 =====
