@@ -39,3 +39,38 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.timeline {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+  border-left: 2px solid #ccc;
+}
+
+.timeline li {
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+.timeline li::before {
+  content: '';
+  position: absolute;
+  left: -7px;
+  top: 0.3em;
+  width: 10px;
+  height: 10px;
+  background: #007acc;
+  border-radius: 50%;
+}
+
+.timeline .content {
+  font-weight: 500;
+}
+
+.timeline .date {
+  font-size: 0.85em;
+  color: #888;
+  margin-top: 0.2em;
+}

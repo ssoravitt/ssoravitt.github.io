@@ -15,6 +15,22 @@ If you have any questions, look for collaboration, and so on, please don’t hes
 
 Updates
 =====
+
+<ul class="timeline">
+  <li>
+    <div class="content">PhD proposal submitted to the Ernst Mach Grant (March 2025 Round)</div>
+    <div class="date">15 Mar 2025</div>
+  </li>
+  <li>
+    <div class="content">Finished first draft of cross-cultural melody/lyrics neural priming proposal</div>
+    <div class="date">08 Nov 2024</div>
+  </li>
+  <li>
+    <div class="content">Officially accepted to PhD program at the University of Vienna (ARi)</div>
+    <div class="date">01 Oct 2024</div>
+  </li>
+</ul>
+
 24 Aug 2024 --- 3 minutes pitching at Falling Walls Thailand. My topic is "Breaking the Wall of Emotional Music Streaming." [[Blog post]](https://ssoravitt.github.io/talks/2024-08-24-fallingwalls)\\
 15 Aug 2024 --- Gig with Bass+Piano+Sax band as a bassist, band leader, and music director [[Blog post]](https://ssoravitt.github.io/posts/2024/08/my-vistec-farewell-band/)\\
 7 Dec 2023 --- My first paper of being the last author is published in the IEEE Sensors 2023, *HeartRhythm: ECG-Based Music Preference Classification in Popular Music*  [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)\\
