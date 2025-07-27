@@ -16,7 +16,7 @@ From 2018-2024, I have started to pursue the questions when I found my master's 
 If you have any questions, look for collaboration, and so on, please don’t hesitate to contact me via email (soravitt.sang[at]gmail[dot]com). -->
 
 
-Updates
+🔔 Updates
 =====
 
 <ul class="timeline">
@@ -35,7 +35,7 @@ Updates
   </li>
   <li>
     <div class="content"> <b>HeartRhythm: ECG-Based Music Preference Classification in Popular Music</b>, IEEE Sensors 2023 <a href="https://ieeexplore.ieee.org/document/10325240">[Paper]</a><a href="https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing">[Poster]</a> </div>
-    <div class="date">01 Oct 2024</div>
+    <div class="date">01 Oct 2023</div>
   </li>
   <li>
     <div class="content"> <b>Enhanced Lightweight CNN Using Joint Classification With Averaging Probability for sEMG-Based Subject-Independent Hand Gesture Recognition</b>, IEEE Sensors Journal <a href="https://ieeexplore.ieee.org/document/10190329">[Paper]</a></div>
