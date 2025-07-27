@@ -26,14 +26,38 @@ Updates
     <div class="date">15 Aug 2024</div>
   </li>
   <li>
-    <div class="content"> <b>HeartRhythm: ECG-Based Music Preference Classification in Popular Music</b> is published</b>, IEEE Sensors 2023 <a href="https://ieeexplore.ieee.org/document/10325240">[Paper]</a><a href="https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing">[Poster]</a> </div>
+    <div class="content"> <b>HeartRhythm: ECG-Based Music Preference Classification in Popular Music</b>, IEEE Sensors 2023 <a href="https://ieeexplore.ieee.org/document/10325240">[Paper]</a><a href="https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing">[Poster]</a> </div>
     <div class="date">01 Oct 2024</div>
   </li>
+  <li>
+    <div class="content">My new co-author publication <a href="https://ieeexplore.ieee.org/document/10190329">[Paper]</a></div>
+    <div class="date">3 Aug 2023</div>
+  </li>
+  <li>
+    <div class="content">Virtually invited presentation in the IEEE Sensors 2022 <a href="https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing">[Paper]</a></div>
+    <div class="date">3 Aug 2023</div>
+</li>
+
+<li>
+    <div class="content">My student received the best poster award of the Mahidol University <a href="https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view">[Poster]</a></div>
+    <div class="date">27 May 2022</div>
+</li>
+
+<li>
+    <div class="content"><b>Ubiquitous Affective Computing: A Review</b>, IEEE Sensors Journal <a href="https://ieeexplore.ieee.org/document/9662339">[Paper]</a></div>
+    <div class="date">01 Feb 2022</div>
+</li>
+
+<li>
+    <div class="content"><b>Revealing Preference in Popular Music Through Familiarity and Brain Response</b>, IEEE Sensors Journal <a href="https://ieeexplore.ieee.org/document/9402806">[Paper]</a><a href="https://ieeexplore.ieee.org/document/9402806">[Video]</a></div>
+    <div class="date">13 April 2021</div>
+</li>
 </ul>
 
-<a href="https://ieeexplore.ieee.org/document/10325240">[Paper]</a><a href="https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing">[Poster]</a>
 
-7 Dec 2023 --- My first paper of being the last author is published in the IEEE Sensors 2023, *HeartRhythm: ECG-Based Music Preference Classification in Popular Music*  [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)\\
+
+<a href="https://ieeexplore.ieee.org/document/10190329">[Paper]</a><a href="https://youtu.be/jdnipFzvos4">[Video]</a><a href="https://github.com/IoBT-VISTEC/MUSEC">[Dataset]</a>
+
 3 Aug 2023 --- My new co-author publication. [[Paper]](https://ieeexplore.ieee.org/document/10190329)\\
 2 Nov 2022 --- Virtually invited presentation in the IEEE Sensors 2022. [[Video]](https://youtu.be/jdnipFzvos4?si=Zctu7AJ1ZXTyYpSp) [[Paper]](https://ieeexplore.ieee.org/document/9402806)\\
 27 May 2022 --- My student received the best poster award of the Mahidol University, *EDA-based music preference classification* [[Poster]](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)\\
