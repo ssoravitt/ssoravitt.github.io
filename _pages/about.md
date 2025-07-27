@@ -18,8 +18,8 @@ Updates
 
 <ul class="timeline">
   <li>
-    <div class="content">3 minutes pitching at Falling Walls Thailand. My topic is "Breaking the Wall of Emotional Music Streaming." [[Blog post]](https://ssoravitt.github.io/talks/2024-08-24-fallingwalls)</div>
-    <div class="date" color="gray">24 Aug 2024</div>
+    <div class="content">3 minutes pitching at Falling Walls Thailand. My topic is "Breaking the Wall of Emotional Music Streaming."<a href="https://ssoravitt.github.io/talks/2024-08-24-fallingwalls"> [Blog post]</a></div>
+    <div class="date">24 Aug 2024</div>
   </li>
   <li>
     <div class="content">Finished first draft of cross-cultural melody/lyrics neural priming proposal</div>
