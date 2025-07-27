@@ -48,8 +48,8 @@ If you have any questions, look for collaboration, and so on, please don’t hes
     <div class="date">3 Aug 2023</div>
   </li>
   <li>
-    <div class="content">Virtually invited presentation in the IEEE Sensors 2022 <a href="https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing">[Paper]</a></div>
-    <div class="date">3 Aug 2023</div>
+    <div class="content">Virtually invited presentation in the IEEE Sensors 2022 <a href="https://youtu.be/jdnipFzvos4?si=VOLDUso7JGfmTYt6">[Paper]</a></div>
+    <div class="date">30 Oct 2022</div>
 </li>
 
 <li>
