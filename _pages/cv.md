@@ -23,7 +23,7 @@ redirect_from:
 
 *Vidyasirimedhi Institute of Science and Technology*
 * Sep 2019 - Dec 2024 --- Researcher and Team leader of Music cognition project (MUSEC)
-    <font color=#888> Investigating human responses to music with and without lyrics using behavioral data, 64-channel brain data, and other bio-signals (ECG, and EDA), and making the data publicly available </font> [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
+    <font color="#888"> Investigating human responses to music with and without lyrics using behavioral data, 64-channel brain data, and other bio-signals (ECG, and EDA), and making the data publicly available </font> [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
   <!-- * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn -->
 
 * Sep 2019 - Dec 2021 --- Research assistant of Speech emotion recognition project
