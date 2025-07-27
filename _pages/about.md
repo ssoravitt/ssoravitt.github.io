@@ -27,7 +27,7 @@ If you have any questions, look for collaboration, and so on, please don’t hes
     <div class="date">13 Jul 2025</div>
   </li>
   <li>
-    <div class="content">Officially left VISTEC after working there for 5 years and 10 months. </div>
+    <div class="content">Officially left <a href="https://vistec.ist/interfaces/">Interfaces lab, VISTEC</a> after working there for 5 years and 10 months. </div>
     <div class="date">31 Dec 2024</div>
   </li>
   <li>
