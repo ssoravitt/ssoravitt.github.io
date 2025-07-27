@@ -23,11 +23,11 @@ redirect_from:
 
 *Vidyasirimedhi Institute of Science and Technology*
 * Sep 2019 - Dec 2024 --- Researcher and Team leader of Music cognition project (MUSEC)
-      * Investigating human responses to music with and without lyrics using behavioral data, 64-channel brain data, and other bio-signals (ECG, and EDA), and making the data publicly available. [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
+    <font color=#888> Investigating human responses to music with and without lyrics using behavioral data, 64-channel brain data, and other bio-signals (ECG, and EDA), and making the data publicly available </font> [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
   <!-- * Supervisor: Asst. Prof. Dr. Theerawit Wilaiprasitporn -->
 
 * Sep 2019 - Dec 2021 --- Research assistant of Speech emotion recognition project
-      * Invited to develop the largest Thai speech emotion dataset acted by 200 actors. [[Dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1)
+      Invited to develop the largest Thai speech emotion dataset acted by 200 actors. [[Dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1)
 
 * Mar 2019 – Feb 2020 --- Research assistant of VISRA project 
       * Making an interactive visualization system for an industry project covering eight research topics (https://visra.vistec.ac.th/).
