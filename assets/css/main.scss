@@ -19,14 +19,14 @@
 }
 
 .timeline li {
-  position: absolute;
+  position: relative;
   padding-left: 1.5em;
   margin-bottom: 1em;
 }
 
 .timeline li::before {
   content: '';
-  position: relative;
+  position: absolute;
   left: -7px;
   top: 0.3em;
   width: 10px;
@@ -40,7 +40,7 @@
 }
 
 .timeline .date {
-  font-size: 0.85em;
+  font-size: 1em;
   color: #888;
   margin-top: 0.2em;
 }
