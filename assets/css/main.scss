@@ -27,12 +27,9 @@
 .timeline li::before {
   content: '🎵';
   position: absolute;
-  left: -7px;
-  top: 0.3em;
-  width: 10px;
-  height: 10px;
-  background: #007acc;
-  border-radius: 50%;
+  left: -1.5em;
+  top: 0.1em;
+  font-size: 1em;
 }
 
 .timeline .content {
