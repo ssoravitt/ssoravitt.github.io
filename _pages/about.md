@@ -7,16 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<ul class="timeline">
 I am pursuing the lifelong questions about music cognition, such as *Why are humans likely the only species emotional with music?* *What makes humans musical animals?*
 
 From 2018-2024, I have started to pursue the questions when I found my master's thesis, music emotion recognition, which got me into the world of music cognition. Thus, the thesis gave me an opportunity to conducted my independent research about music cognition and physiological signals (EEG, ECG, and EDA), supervised by [Asst. Prof. Dr. Theerawit Wilaiprasitporn](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=th) at [BRAIN Lab](https://brain.vistec.ac.th/), VISTEC, Thailand. 
 
 If you have any questions, look for collaboration, and so on, please don’t hesitate to contact me via email (soravitt.sang[at]gmail[dot]com).
+</ul>
 
 Updates
 =====
 
 <ul class="timeline">
+  <li>
+    <div class="content"> <b>EEG-BBNet: A Hybrid Framework for Brain Biometric Using Graph Connectivity
+    </b>, IEEE Sensors Letters <a href="https://ieeexplore.ieee.org/abstract/document/10816542">[Paper]</a> </div>
+    <div class="date">26 Dec 2024</div>
+  </li>
   <li>
     <div class="content">3 minutes pitching at Falling Walls Thailand <a href="https://ssoravitt.github.io/talks/2024-08-24-fallingwalls"> [Blog post]</a></div>
     <div class="date">24 Aug 2024</div>
@@ -30,7 +38,7 @@ Updates
     <div class="date">01 Oct 2024</div>
   </li>
   <li>
-    <div class="content">My new co-author publication <a href="https://ieeexplore.ieee.org/document/10190329">[Paper]</a></div>
+    <div class="content"> <b>Enhanced Lightweight CNN Using Joint Classification With Averaging Probability for sEMG-Based Subject-Independent Hand Gesture Recognition</b>, IEEE Sensors Journal <a href="https://ieeexplore.ieee.org/document/10190329">[Paper]</a></div>
     <div class="date">3 Aug 2023</div>
   </li>
   <li>
@@ -49,17 +57,11 @@ Updates
 </li>
 
 <li>
-    <div class="content"><b>Revealing Preference in Popular Music Through Familiarity and Brain Response</b>, IEEE Sensors Journal <a href="https://ieeexplore.ieee.org/document/9402806">[Paper]</a><a href="https://ieeexplore.ieee.org/document/9402806">[Video]</a></div>
+    <div class="content"><b>Revealing Preference in Popular Music Through Familiarity and Brain Response</b>, IEEE Sensors Journal <a href="https://ieeexplore.ieee.org/document/9402806">[Paper]</a><a href="https://ieeexplore.ieee.org/document/9402806">[Video]</a><a href="https://github.com/IoBT-VISTEC/MUSEC">[Dataset]</a></div>
     <div class="date">13 April 2021</div>
 </li>
 </ul>
 
 
 
-<a href="https://ieeexplore.ieee.org/document/10190329">[Paper]</a><a href="https://youtu.be/jdnipFzvos4">[Video]</a><a href="https://github.com/IoBT-VISTEC/MUSEC">[Dataset]</a>
 
-3 Aug 2023 --- My new co-author publication. [[Paper]](https://ieeexplore.ieee.org/document/10190329)\\
-2 Nov 2022 --- Virtually invited presentation in the IEEE Sensors 2022. [[Video]](https://youtu.be/jdnipFzvos4?si=Zctu7AJ1ZXTyYpSp) [[Paper]](https://ieeexplore.ieee.org/document/9402806)\\
-27 May 2022 --- My student received the best poster award of the Mahidol University, *EDA-based music preference classification* [[Poster]](https://drive.google.com/file/d/1fhBA9g-PXZKsSzrXUBVIheheM-3AjHIY/view)\\
-01 Feb 2022 --- A paper that I am the main supervisor for the first time was published in the IEEE Sensors Journal, *Ubiquitous Affective Computing: A Review* [[Paper]](https://ieeexplore.ieee.org/document/9662339)\\
-13 Apr 2021 --- A paper that I am the first author was published in the IEEE Sensors Journal, *Revealing Preference in Popular Music Through Familiarity and Brain Response.* [[Paper]](https://ieeexplore.ieee.org/document/9402806) [[Video]](https://youtu.be/jdnipFzvos4) [[Dataset]](https://github.com/IoBT-VISTEC/MUSEC)
