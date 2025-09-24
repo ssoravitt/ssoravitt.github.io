@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Music"
-permalink: /Music/
+permalink: /music/
 author_profile: true
 ---
 See my musical content soon.
