@@ -5,6 +5,8 @@ permalink: /Music/
 author_profile: true
 ---
 See my musical content soon.
+
+
 <!--
 P. Lakhan, N. Banluesombatkul, N. Sricom, P. Sawangjai, <b>S. Sangnark</b>, T. Yagi, T. Wilaiprasitporn, W. Saengmolee, and T. Limpiti, “EEG-BBnet: A hybrid framework for brain biometric using graph connectivity,” IEEE Sensors Letters, vol. 9, no. 2, pp. 1–4, 2025.
 
