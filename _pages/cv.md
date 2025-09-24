@@ -44,9 +44,9 @@ Thesis
 
 <!--## Education-->
 
-* <!--B. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2016-->
+<!--B. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2016-->
   <!-- * Thesis --- Thai music emotion recognition based on Western music (written in Thai) [[Link]](https://opac.lib.kmitl.ac.th/catalog/BibItem.aspx?BibID=b00273711) -->
-* <!--M. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2019-->
+<!--M. Eng. in Information Engineering, King Mongkut's Institute of Technology Ladkrabang, 2019-->
   <!-- * Thesis --- Note score recognition -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
