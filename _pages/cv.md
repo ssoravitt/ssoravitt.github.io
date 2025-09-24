@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 [Download full CV](https://drive.google.com/file/d/1Da-J_rZr9P1uPBYga0bDMEy13TG7yXUP/view?usp=sharing) (Updated 27 Feb 2025)
 
