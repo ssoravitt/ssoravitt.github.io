@@ -17,7 +17,7 @@ CV
 
 Publications
 =====
-P. Lakhan, N. Banluesombatkul, N. Sricom, P. Sawangjai, <b>S. Sangnark</b>, T. Yagi, T. Wilaiprasitporn, W. Saengmolee, and T. Limpiti, “EEG-BBnet: A hybrid framework for brain biometric using graph connectivity,” IEEE Sensors Letters, vol. 9, no. 2, pp. 1–4, 2025.
+P. Lakhan, N. Banluesombatkul, N. Sricom, P. Sawangjai, <b>S. Sangnark</b>, T. Yagi, T. Wilaiprasitporn, W. Saengmolee, and T. Limpiti, “EEG-BBnet: A hybrid framework for brain biometric using graph connectivity,” IEEE Sensors Letters, vol. 9, no. 2, pp. 1–4, 2025. [[Paper]](https://ieeexplore.ieee.org/document/10816542/)
 
 P. Autthasan, P. Sukontaman, T. Wilaiprasitporn and <b>S. Sangnark</b>, "HeartRhythm: ECG-Based Music Preference Classification in Popular Music," 2023 IEEE SENSORS, Vienna, Austria, 2023, pp. 1-4. [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)
 
@@ -50,7 +50,7 @@ Thesis
   <!-- * Thesis --- Note score recognition -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-## Research experience
+<!-- ## Research experience -->
 
 <!--*Vidyasirimedhi Institute of Science and Technology*
 * Sep 2019 - Dec 2024 --- Researcher and Team leader of Music cognition project (MUSEC)
