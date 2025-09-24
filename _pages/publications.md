@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Music"
+permalink: /Music/
 author_profile: true
 ---
+See my musical content soon.
+<!--
 P. Lakhan, N. Banluesombatkul, N. Sricom, P. Sawangjai, <b>S. Sangnark</b>, T. Yagi, T. Wilaiprasitporn, W. Saengmolee, and T. Limpiti, “EEG-BBnet: A hybrid framework for brain biometric using graph connectivity,” IEEE Sensors Letters, vol. 9, no. 2, pp. 1–4, 2025.
 
 P. Autthasan, P. Sukontaman, T. Wilaiprasitporn and <b>S. Sangnark</b>, "HeartRhythm: ECG-Based Music Preference Classification in Popular Music," 2023 IEEE SENSORS, Vienna, Austria, 2023, pp. 1-4. [[Paper]](https://ieeexplore.ieee.org/document/10325240) [[Poster]](https://drive.google.com/file/d/1VtqszINiAbvCiBUaR5Q_-E5egUmfFxQH/view?usp=sharing)
@@ -28,6 +30,7 @@ W. Polpakdee, <b>S. Sangnark</b>, S. Noisagool, and T. Wilaiprasitporn, EDA-base
 Thesis
 =====
 <b>S. Sangnark</b>, Thai music emotion recognition based on Western music (written in Thai), Master thesis, 2019. [[Link]](https://opac.lib.kmitl.ac.th/catalog/BibItem.aspx?BibID=b00273711)
+--!>
 
 
 
