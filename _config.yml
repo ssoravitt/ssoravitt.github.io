@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Soravitt Sangnark"
 title_separator          : "-"
 name                     : &name "Soravitt"
-description              : &description "Music cognition researcher at INTERFACES, VISTEC"
+description              : &description "Music cognition researcher at Acoustic Research Institute, Vienna"
 url                      : https://ssoravitt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ssoravitt/ssoravitt.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Soravitt Sangnark"
   avatar           : "myprofile13.JPG"
   bio              : ""
-  location         : "Rayong, Thailand"
+  location         : "Vienna, Austria"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5B5UJJEAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@chattsoravitt"
+  twitter          : # "@chattsoravitt"
   vine             :
   weibo            :
   xing             :
