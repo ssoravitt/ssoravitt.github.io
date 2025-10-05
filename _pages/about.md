@@ -21,6 +21,14 @@ If you have any questions, look for collaboration, and so on, please don’t hes
 
 <ul class="timeline">
   <li>
+    <div class="content"> <b>Start a PhD in Biomusicology within the Biology Cluster at the Acoustic Research Institute, Vienna.</b> </div>
+    <div class="date">01 Oct 2025</div>
+  </li>
+  <li>
+    <div class="content"> My Google Scholar profile has reached 100 citations! A small step, but an extremely meaningful one. </div>
+    <div class="date">01 Oct 2025</div>
+  </li>
+  <li>
     <div class="content"> <b>THAI Speech Emotion Recognition (THAI-SER) corpus
     </b>, arXiv <a href="https://arxiv.org/abs/2507.09618">[Preprint]</a><a href="https://github.com/vistec-AI/dataset-releases/releases/tag/v1
     ">[Dataset]</a> </div>
@@ -49,7 +57,7 @@ If you have any questions, look for collaboration, and so on, please don’t hes
   </li>
   <li>
     <div class="content"> <b>Enhanced Lightweight CNN Using Joint Classification With Averaging Probability for sEMG-Based Subject-Independent Hand Gesture Recognition</b>, IEEE Sensors Journal <a href="https://ieeexplore.ieee.org/document/10190329">[Paper]</a></div>
-    <div class="date">3 Aug 2023</div>
+    <div class="date">03 Aug 2023</div>
   </li>
   <li>
     <div class="content">Virtually invited presentation in the IEEE Sensors 2022 <a href="https://youtu.be/jdnipFzvos4?si=VOLDUso7JGfmTYt6">[Paper]</a></div>
