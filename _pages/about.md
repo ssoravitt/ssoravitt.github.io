@@ -22,7 +22,7 @@ If you have any questions, look for collaboration, and so on, please don’t hes
 <ul class="timeline">
   <li>
     <div class="content"> <b>Start a PhD in Biomusicology within the Biology Cluster at the Acoustic Research Institute, Vienna.</b> </div>
-    <div class="date">01 Oct 2025</div>
+    <div class="date">08 Oct 2025</div>
   </li>
   <li>
     <div class="content"> My Google Scholar profile has reached 100 citations! A small step, but an extremely meaningful one. </div>
