@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A new and exciting journey as a PhD researcher in biomusicology will begin in Fall 2025 in Vienna, Austria. A new 'About Me' statement for this journey will be published here soon.
+A new and exciting journey as a PhD researcher in biomusicology has alread started in Vienna, Austria. A new 'About Me' statement for this journey will be published here soon.
 
 <!-- I am pursuing the lifelong questions about music cognition, such as *Why are humans likely the only species emotional with music?* *What makes humans musical animals?*
 
