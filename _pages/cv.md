@@ -11,7 +11,7 @@ redirect_from:
 
 CV
 =====
-[Download full CV](https://drive.google.com/file/d/18mmJD-wfs173e5T98W3EwU1dQG1gLE2H/view?usp=sharing) (Updated 16 Oct 2025)
+[Download full CV](https://drive.google.com/file/d/1OusPrMEw0UPw6QfwT8gtzYiTusO4K0Np/view?usp=drive_link) (Updated 28 Nov 2025)
 
 
 
