@@ -17,7 +17,7 @@ CV
 
 Publications
 =====
-J. Wongpithayadisai, C. Chaksangchaichot, <b>S. Sangnark</b>, P. Prakrankamanant, K. Gangwanpongpun, S. Boonpunmongkol, P. Milindasuta, D. Na-Pombejra, S. Nutanong, and E. Chuangsuwanich, “THAI Speech Emotion Recognition (THAI-SER) corpus,” arxiv, 2025. [[Paper]](https://arxiv.org/abs/2507.09618)
+J. Wongpithayadisai, C. Chaksangchaichot, <b>S. Sangnark</b>, P. Prakrankamanant, K. Gangwanpongpun, S. Boonpunmongkol, P. Milindasuta, D. Na-Pombejra, S. Nutanong, and E. Chuangsuwanich, “THAI Speech Emotion Recognition (THAI-SER) corpus,” arxiv, 2025. [[Paper]](https://arxiv.org/abs/2507.09618) [[Dataset]](https://github.com/vistec-AI/dataset-releases/releases/tag/v1)
 
 P. Lakhan, N. Banluesombatkul, N. Sricom, P. Sawangjai, <b>S. Sangnark</b>, T. Yagi, T. Wilaiprasitporn, W. Saengmolee, and T. Limpiti, “EEG-BBnet: A hybrid framework for brain biometric using graph connectivity,” IEEE Sensors Letters, vol. 9, no. 2, pp. 1–4, 2025. [[Paper]](https://ieeexplore.ieee.org/document/10816542/)
 
