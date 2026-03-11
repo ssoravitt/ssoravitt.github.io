@@ -21,6 +21,14 @@ If you have any questions, look for collaboration, and so on, please don’t hes
 
 <ul class="timeline">
   <li>
+    <div class="content"> My first PhD presentation in Vienna at 5th PhD Academy - VDS CoBeNe Annual Doctoral Conference, University of Vienna </div>
+    <div class="date">16-18 Feb 2026</div>
+  </li>
+  <li>
+    <div class="content"> Attended the NaMu (Nature of Music) conference, Vienna, Austria </div>
+    <div class="date">10-12 Dec 2025</div>
+  </li>
+  <li>
     <div class="content"> <b>Start a PhD in Musicality and Bioacoustics Group at the Acoustic Research Institute, Austrian Academy of Sciences, Vienna; Vienna Doctoral School Cognition, Behaviour and Neuroscience, University of Vienna.</b> </div>
     <div class="date">08 Oct 2025</div>
   </li>
